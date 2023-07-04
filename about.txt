@@ -1,2 +1,2 @@
 This is about page
-That is About us p.
+This is a github repo.
